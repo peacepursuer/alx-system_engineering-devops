@@ -1,1 +1,1 @@
-First 10 lines
+The third line of the file
